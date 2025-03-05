@@ -1,0 +1,7 @@
+> *Submission Date: March-6th*
+
+1. Implement a CNN to classify the images from the CIFAR10 dataset. 
+2. Implement a simple RNN using keras or tensorflow to predict the next word of new sentence. 
+3. Write a CNN to recognize the handwritten characters. 
+4. Implement a CNN  to detect object in image using the *YOLO* algorithm.
+5. Develop a system to classify email as spam or not.
